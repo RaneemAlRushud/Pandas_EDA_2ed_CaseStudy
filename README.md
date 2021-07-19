@@ -44,7 +44,10 @@
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
 
 <h3> 💡 Data cleaning </h3>
-<code> In my point of view, all of the attached columns are useless on the investigation. As a result of that, we need to make the dataframe cleaner by dropping them.</code>
+<code> In my point of view, all of the attached columns are useless on the investigation. As a result of that, we need to make the dataframe cleaner by dropping them.</code> <br> <br>
+<img width="500" alt="Screen Shot 1442-12-09 at 10 52 41 PM" src="https://user-images.githubusercontent.com/59771760/126218908-7e2b112e-aa9e-4877-8fe3-371ffb7ad1b7.png">
+
+
 <h3> 💡 Missing Values </h3>
  <p> After dropping some values , missing values were found.We need to drop them to clean the dataset .Such of columns that contain a missing value: </p>
   
