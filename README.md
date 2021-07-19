@@ -1,4 +1,5 @@
 
+
 <br> <br>
 
 <img src="./board.svg" alt="" /> 
@@ -22,19 +23,25 @@
 
 <h1> :star2: Dataset Preview  </h1>
 
-<code> 
 
-</code>
 
-<img width="1200" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png">
+<h3><li> 💡 Top Rows</li></h3>
+          <code> This feature allows us to take a peek at the dataset content </code> <br> 
+<br>
+ <img width="500" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png"> 
 
+<h3><li> 💡 Top Rows</li> </h3><img width="500" alt="Screen Shot 1442-12-09 at 10 00 33 PM" src="https://user-images.githubusercontent.com/59771760/126212948-ddcf8916-e33c-4c39-b2dc-ee77c6880636.png">
+
+
+<img width="500" alt="Screen Shot 1442-12-09 at 10 10 25 PM" src="https://user-images.githubusercontent.com/59771760/126213980-231912ba-6ff3-4755-aae3-6dcd3c91aafc.png">
 <br> 
 <h1> :star2: Data Wrangling  </h1>
   
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
 
-<h3> 💡 Data cleaning <h3>
-<h3> 💡 Missing Values <h3>
+<h3> 💡 Data cleaning </h3>
+<h3> 💡 Missing Values </h3>
+ <p> After dropping some values , missing values were found.We need to drop them to clean the dataset .Such of columns that contain a missing value: </p>
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
