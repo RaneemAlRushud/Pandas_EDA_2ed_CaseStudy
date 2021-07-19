@@ -11,7 +11,9 @@
 <br>
 
 <h1> :star2: Process Timeline  </h1>
-<li> </li>
+:one:
+:two:
+:three:
 
 
 <h1> :star2: Data Wrangling  </h1>
