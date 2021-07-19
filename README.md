@@ -11,9 +11,9 @@
 <br>
 
 <h1> :star2: Process Timeline  </h1>
-:one: <br> Data Wrangling
-:two: <br> Exploratory Data Analysis
-:three: <br> Conclusion
+<li> :one: Data Wrangling </li>
+<li> :two: <br> Exploratory Data Analysis </li>
+<li>:three: <br> Conclusion </li>
 
 
 <h1> :star2: Data Wrangling  </h1>
