@@ -19,7 +19,7 @@
 <li>:four: Conclusion </li>
  <br> 
 
-<h1> :star2: Preview  </h1>
+<h1> :star2: Dataset Preview  </h1>
 
 <img width="1200" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png">
 
