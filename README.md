@@ -30,7 +30,10 @@
 <br>
  <img width="500" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png"> 
 
-<h3><li> 💡 Top Rows</li> </h3><img width="500" alt="Screen Shot 1442-12-09 at 10 00 33 PM" src="https://user-images.githubusercontent.com/59771760/126212948-ddcf8916-e33c-4c39-b2dc-ee77c6880636.png">
+<h3><li> 💡 Summary</li> </h3>
+<code> Concise summary of the DataFrame such as DataFrame imension and calculating some statistical data</code>
+
+<img width="500" alt="Screen Shot 1442-12-09 at 10 00 33 PM" src="https://user-images.githubusercontent.com/59771760/126212948-ddcf8916-e33c-4c39-b2dc-ee77c6880636.png">
 
 
 <img width="500" alt="Screen Shot 1442-12-09 at 10 10 25 PM" src="https://user-images.githubusercontent.com/59771760/126213980-231912ba-6ff3-4755-aae3-6dcd3c91aafc.png">
@@ -40,6 +43,7 @@
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
 
 <h3> 💡 Data cleaning </h3>
+<code> In my point of view, all of the attached columns are useless on the investigation. As a result of that, we need to make the dataframe cleaner by dropping them.</code>
 <h3> 💡 Missing Values </h3>
  <p> After dropping some values , missing values were found.We need to drop them to clean the dataset .Such of columns that contain a missing value: </p>
   
