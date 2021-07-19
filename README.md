@@ -3,8 +3,10 @@
 <img src="./board.svg" alt="" /> 
 
 
+
 <h1>:rocket: Dataset</h1>
-YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. Top performers on the YouTube trending list are music videos (such as the famously virile “Gangam Style”), celebrity and/or reality TV performances, and the random dude-with-a-camera viral videos that YouTube is well-known for. <strong> This dataset is a daily record of the top trending YouTube videos.</strong>
+<p> YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. Top performers on the YouTube trending list are music videos (such as the famously virile “Gangam Style”), celebrity and/or reality TV performances, and the random dude-with-a-camera viral videos that YouTube is well-known for. <strong> This dataset is a daily record of the top trending YouTube videos.</strong> </p> 
+<code> 📌   <i> Note:  <br> I have restricted processing on the CAvideos.csv file (Canada Country data) </i> </code>
 
 <br>
 
@@ -18,7 +20,7 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
   <h3> 💡 Q1: Is there a relation between popularity and Vote ? <h3>
-  <h3> 💡 Q2: which youtube video ID had the highest number of views ? <h3>
+  <h3> 💡 Q2: which youtube video ID in GB had the highest number of views ? <h3>
   <h3> 💡 Q3: What are the top 5 videos generate the highest revenue? <h3>
     
  
