@@ -10,6 +10,10 @@
 
 <br>
 
+<h1> :star2: Process Timeline  </h1>
+<li> </li>
+
+
 <h1> :star2: Data Wrangling  </h1>
   
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
@@ -20,11 +24,14 @@
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
   <h3> 💡 Q1: Is there a relation between popularity and Vote ? <h3>
-  <h3> 💡 Q2: which youtube video ID in GB had the highest number of views ? <h3>
+    Figure 1. 
+  <h3> 💡 Q2: which youtube video ID in CA had the highest number of views ? <h3>
+    Figure 2. 
   <h3> 💡 Q3: What are the top 5 videos generate the highest revenue? <h3>
+    Figure 3. 
     
  
  
   
-Figure 1. Provisions provided by the Ku Klux Klan by type during the 1990's, omitting society provisions.
+
 
