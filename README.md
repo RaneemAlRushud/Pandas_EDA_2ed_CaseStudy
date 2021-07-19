@@ -1,3 +1,4 @@
+
 <br> <br>
 
 <img src="./board.svg" alt="" /> 
@@ -9,13 +10,20 @@
 <code> 📌   <i> Note:  <br> I have restricted processing on the CAvideos.csv file (Canada Country data) </i> </code>
 
 <br>
+<br>
 
 <h1> :star2: Process Timeline  </h1>
-<li> :one: Data Wrangling </li>
-<li> :two: Exploratory Data Analysis </li>
-<li>:three: Conclusion </li>
+<li> :one: Dataset Preview </li>
+<li> :two: Data Wrangling </li>
+<li> :three: Exploratory Data Analysis </li>
+<li>:four: Conclusion </li>
+ <br> 
 
+<h1> :star2: Preview  </h1>
 
+<img width="1200" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png">
+
+<br> 
 <h1> :star2: Data Wrangling  </h1>
   
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
