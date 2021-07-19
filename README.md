@@ -25,11 +25,11 @@
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
-  <h3> 💡 Q1: Is there a relation between popularity and Vote ? <h3>
+  <h3> 💡 Q1: Is there a relation between views and publish time ? <h3>
     Figure 1. 
   <h3> 💡 Q2: which youtube video ID in CA had the highest number of views ? <h3>
     Figure 2. 
-  <h3> 💡 Q3: What are the top 5 videos generate the highest revenue? <h3>
+  <h3> 💡 Q3: What are the top 5 videos generate the highest comments and likes? <h3>
     Figure 3. 
     
  
