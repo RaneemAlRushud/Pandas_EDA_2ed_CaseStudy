@@ -28,7 +28,8 @@
 <h3><li> 💡 Top Rows</li></h3>
           <code> This feature allows us to take a peek at the dataset content </code> <br> 
 <br>
- <img width="500" alt="Screen Shot 1442-12-09 at 12 52 17 PM" src="https://user-images.githubusercontent.com/59771760/126141614-dfaaca9b-1bf3-45e6-a5af-01b7656f2ba7.png"> 
+ <img width="500" alt="Screen Shot 1442-12-09 at 10 50 26 PM" src="https://user-images.githubusercontent.com/59771760/126218613-b7f4b1f1-e50f-47b6-baab-f06d34480425.png">
+
 
 <h3><li> 💡 Summary</li> </h3>
 <code> Concise summary of the DataFrame such as DataFrame imension and calculating some statistical data</code>
