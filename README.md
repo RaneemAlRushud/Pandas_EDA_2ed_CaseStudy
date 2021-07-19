@@ -17,6 +17,7 @@
 <li> :two: Data Wrangling </li>
 <li> :three: Exploratory Data Analysis </li>
 <li>:four: Conclusion </li>
+<li> :five: Resources </li>
  <br> 
 
 <h1> :star2: Dataset Preview  </h1>
@@ -42,6 +43,8 @@
     
  
  <h1> :star2: Conclusion </h1>
+   
+   <h1> :star2: Resources </h1>
   
 
 
