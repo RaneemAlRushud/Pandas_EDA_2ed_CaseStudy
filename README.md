@@ -45,13 +45,13 @@
   
 <p>In this section we will load in the data, check for cleanliness, then trim and clean the dataset for analysis.</p>
 
-<li><h3> 💡 Data cleaning </h3> <br></li>
+<h3> <li>💡 Data cleaning </li> </h3> <br>
 
 <img width="500" alt="Screen Shot 1442-12-09 at 10 52 41 PM" src="https://user-images.githubusercontent.com/59771760/126218908-7e2b112e-aa9e-4877-8fe3-371ffb7ad1b7.png"> 
 ☑️ <code> Figure 4. In my point of view, all of the attached columns are useless on the investigation. As a result of that, we need to make the dataframe cleaner by dropping them.</code> <br> <br>
 
 
-<li><h3> 💡 Missing Values </h3> <br></li>
+<h3> <li>💡 Missing Values </li></h3> <br>
   ☑️ <code>After dropping some values , missing values were found.📌📌</code>
  <br> <br>
 <img width="448" alt="Screen Shot 1442-12-10 at 4 00 37 AM" src="https://user-images.githubusercontent.com/59771760/126246494-229de8e4-3c2b-4bf3-9147-14cac96c9b11.png"> 
@@ -75,12 +75,12 @@ df
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
- <li>   <h3> 💡 Q1: What are the top 5 videos generate the highest comments and likes? Is there a special category they belong to it?<h3> </li>
+  <h3> <li>💡 Q1: What are the top 5 videos generate the highest comments and likes? Is there a special category they belong to it?</li> <h3> 
  
     Figure 1. 
-  <li><h3> 💡 Q2: Is there a relation between dislikes and videos get removed or have errors? <h3></li>
+<h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li><h3>
     Figure 2. 
-   <li><h3> 💡 Q3: Is there a relation between comments and likes ? <h3></li>
+ <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li><h3>
     Figure 3. 
     
  
