@@ -55,7 +55,7 @@
   ☑️ <code>After dropping some values , missing values were found.📌📌</code>
  <br> <br>
 <img width="448" alt="Screen Shot 1442-12-10 at 4 00 37 AM" src="https://user-images.githubusercontent.com/59771760/126246494-229de8e4-3c2b-4bf3-9147-14cac96c9b11.png"> 
- ☑️ <code>Figure 7. Clean missing values issue</code>
+ ☑️ <code>Figure 5. Clean missing values issue</code>
  <br> <br>
 
 
@@ -77,11 +77,11 @@ df
   <h1> :star2:  Exploratory Data Analysis  </h1>
   <h3> <li>💡 Q1: What are the top 5 videos generate the highest comments and likes? Is there a special category they belong to it?</li> <h3> 
  
-    Figure 1. 
+    Figure 8. 
 <h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li><h3>
-    Figure 2. 
+    Figure 9. 
  <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li><h3>
-    Figure 3. 
+    Figure 10. 
     
  
  <h1> :star2: Conclusion </h1>
