@@ -88,6 +88,7 @@ Figure 10.
     
  
  <h1> :star2: Conclusion </h1>
+ <li>In this analysis, I just analyze the case of trending YouTube in Great Britain. It will be the same way for consider other cases.</li>
    
    <h1> :star2: Resources </h1>
   <li>https://www.kaggle.com/datasnaek/youtube</li>
