@@ -75,13 +75,14 @@ df
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
-  <h3> <li>💡 Q1:  Which category ID had the highest views? Which that category belongs to?</li> <h3> 
- Figure 8. <img width="443" alt="Screen Shot 1442-12-10 at 6 45 05 PM" src="https://user-images.githubusercontent.com/59771760/126354652-b982f60a-a880-4a09-b87e-7e687d369f85.png">
-<h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li><h3>
+  <h3> <li>💡 Q1:  Which category ID had the highest views? Which that category belongs to?</li> </h3> 
+ <img width="443" alt="Screen Shot 1442-12-10 at 6 45 05 PM" src="https://user-images.githubusercontent.com/59771760/126354652-b982f60a-a880-4a09-b87e-7e687d369f85.png">
+  Figure 8.
+<h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li></h3>
     Figure 9. 
- <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li><h3>
-   Figure 10.  <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
-
+ <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li></h3>
+   <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
+ Figure 10. 
   
     
  
