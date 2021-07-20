@@ -55,7 +55,14 @@
 ☑️ <code> No dublicates </code> <br><br>
 <img width="708" alt="Screen Shot 1442-12-10 at 4 01 50 AM" src="https://user-images.githubusercontent.com/59771760/126246542-67554df6-a49a-40d9-bc6a-849b61b837ce.png">
 
+☑️ <code> No need for the attached code segment</code> <br>
 
+  ```python
+  df.sort_values('id', inplace=True)
+df.drop_duplicates(subset='id' , keep=False , inplace=True)
+df
+# to drop the duplicated values
+  ```
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
