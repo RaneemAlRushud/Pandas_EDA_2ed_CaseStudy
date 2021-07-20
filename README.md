@@ -28,7 +28,7 @@
 <h3><li> 💡 Top Rows</li></h3>
        
 <br>
- <img width="500" alt="Screen Shot 1442-12-09 at 10 50 26 PM" src="https://user-images.githubusercontent.com/59771760/126218613-b7f4b1f1-e50f-47b6-baab-f06d34480425.png">   ☑️  <code> Figure 1. This feature allows us to take a peek at the dataset content </code> <br> 
+ <img width="500![Uploading Screen Shot 1442-12-10 at 6.23.33 PM.png…]()" alt="Screen Shot 1442-12-10 at 6 22 26 PM" src="https://user-images.githubusercontent.com/59771760/126350870-729ec2f5-c6a4-4450-9267-0df776400583.png">  ☑️  <code> Figure 1. This feature allows us to take a peek at the dataset content </code> <br> 
 
 
 <h3><li> 💡 Summary</li> </h3>
@@ -75,18 +75,21 @@ df
   
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
-  <h3> <li>💡 Q1: What are the top 5 videos generate the highest comments and likes? Is there a special category they belong to it?</li> <h3> 
- 
-    Figure 8. 
+  <h3> <li>💡 Q1:  Which category ID had the highest views? Which that category belongs to?</li> <h3> 
+ Figure 8. <img width="443" alt="Screen Shot 1442-12-10 at 6 45 05 PM" src="https://user-images.githubusercontent.com/59771760/126354652-b982f60a-a880-4a09-b87e-7e687d369f85.png">
 <h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li><h3>
     Figure 9. 
  <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li><h3>
-    Figure 10. 
+   Figure 10.  <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
+
+  
     
  
  <h1> :star2: Conclusion </h1>
    
    <h1> :star2: Resources </h1>
-  
+  <li>https://www.kaggle.com/datasnaek/youtube</li>
+  <li></li>
+
 
 
