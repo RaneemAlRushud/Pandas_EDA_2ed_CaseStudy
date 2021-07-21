@@ -99,7 +99,7 @@ Figure 10.
    
    <h1> :star2: Resources </h1>
   <li>[1].Kaggle.com. 2021. Trending YouTube Video Statistics and Comments. [online] Available at: <https://www.kaggle.com/datasnaek/youtube> [Accessed 21 July 2021]. </li>
-  <li>[2]. 2021. [online] Available at: <https://github.com/GalvanizeDataScience/pandas-eda-case-study> [Accessed 21 July 2021].</li>
+  <li>[2]. 2021. [online] Available at: https://github.com/GalvanizeDataScience/pandas-eda-case-study [Accessed 21 July 2021].</li>
 
 
 
