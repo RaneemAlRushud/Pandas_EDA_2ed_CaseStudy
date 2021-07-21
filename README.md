@@ -99,7 +99,7 @@ Figure 10.
     
  
  <h1> :star2: Conclusion </h1>
- <li>In this analysis, I just analyze the case of trending YouTube in Great Britain. It will be the same way for consider other cases.</li>
+ <li>In this analysis, I just analyze the case of trending YouTube in Canada. It will be the same way for consider other cases.</li>
    
    <h1> :star2: Resources </h1>
   <li>[1].Kaggle.com. 2021. Trending YouTube Video Statistics and Comments. [online] Available at: <https://www.kaggle.com/datasnaek/youtube> [Accessed 21 July 2021]. </li>
