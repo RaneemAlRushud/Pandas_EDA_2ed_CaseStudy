@@ -76,6 +76,7 @@ df
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
   <h3> <li>💡 Q1:  Which category ID had the highest views? Which that category belongs to?</li> </h3> 
+           <li> category ID #10 --> Music</li>
 <img width="493" alt="Screen Shot 1442-12-11 at 4 59 11 AM" src="https://user-images.githubusercontent.com/59771760/126418629-a4ae1eff-3ec6-40d1-8f9b-a316694534cb.png">
   Figure 8.
 <h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li></h3>
