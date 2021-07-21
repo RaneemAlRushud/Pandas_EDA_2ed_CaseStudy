@@ -76,9 +76,12 @@ df
   
   <h1> :star2:  Exploratory Data Analysis  </h1>
   <h3> <li>💡 Q1:  Which category ID had the highest views? Which that category belongs to?</li> </h3> 
-<img width="658" alt="Screen Shot 1442-12-10 at 6 48 19 PM" src="https://user-images.githubusercontent.com/59771760/126355189-d4984a70-7a76-48d4-b278-0b8b6b5e2240.png">
+<img width="493" alt="Screen Shot 1442-12-11 at 4 59 11 AM" src="https://user-images.githubusercontent.com/59771760/126418629-a4ae1eff-3ec6-40d1-8f9b-a316694534cb.png">
   Figure 8.
 <h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li></h3>
+<img width="617" alt="Screen Shot 1442-12-11 at 4 57 31 AM" src="https://user-images.githubusercontent.com/59771760/126418496-ac01dba7-1056-479a-9a1e-ec1b1b835035.png">
+
+
     Figure 9. 
  <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li></h3>
    <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
