@@ -82,7 +82,6 @@ df
 <h3> <li>💡 Q2: Is there a relation between dislikes and videos get removed or have errors?</li></h3>
 <img width="617" alt="Screen Shot 1442-12-11 at 4 57 31 AM" src="https://user-images.githubusercontent.com/59771760/126418496-ac01dba7-1056-479a-9a1e-ec1b1b835035.png">
 
-
     Figure 9. 
  <h3> <li>💡 Q3: Is there a relation between comments and likes ? </li></h3>
    <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
@@ -94,7 +93,7 @@ Figure 10.
   <img width="771" alt="Screen Shot 1442-12-10 at 6 58 33 PM" src="https://user-images.githubusercontent.com/59771760/126356938-b12a964c-6800-4861-9c46-a423b6e2e5bb.png">
 
                 
-Figure 10. 
+Figure 11. 
   
     
  
