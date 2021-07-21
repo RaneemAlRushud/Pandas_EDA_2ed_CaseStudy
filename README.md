@@ -98,8 +98,8 @@ Figure 10.
  <li>In this analysis, I just analyze the case of trending YouTube in Great Britain. It will be the same way for consider other cases.</li>
    
    <h1> :star2: Resources </h1>
-  <li>https://www.kaggle.com/datasnaek/youtube</li>
-  <li>https://github.com/GalvanizeDataScience/pandas-eda-case-study</li>
+  <li>[1].Kaggle.com. 2021. Trending YouTube Video Statistics and Comments. [online] Available at: <https://www.kaggle.com/datasnaek/youtube> [Accessed 21 July 2021]. </li>
+  <li>[2]. 2021. [online] Available at: <https://github.com/GalvanizeDataScience/pandas-eda-case-study> [Accessed 21 July 2021].</li>
 
 
 
