@@ -100,6 +100,8 @@ Figure 10.
  
  <h1> :star2: Conclusion </h1>
  <li>In this analysis, I just analyze the case of trending YouTube in Canada. It will be the same way for consider other cases.</li>
+ <li> Understand data and use it to make strategic business decisions.</li>
+ <li> Create content strategies and develop products.</li>
    
    <h1> :star2: Resources </h1>
   <li>[1].Kaggle.com. 2021. Trending YouTube Video Statistics and Comments. [online] Available at: <https://www.kaggle.com/datasnaek/youtube> [Accessed 21 July 2021]. </li>
