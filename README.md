@@ -84,6 +84,13 @@ df
    <img width="644" alt="Screen Shot 1442-12-10 at 6 24 51 PM" src="https://user-images.githubusercontent.com/59771760/126351251-64152f85-e4f3-48c1-8b18-93661160960b.png">
                 
 Figure 10. 
+
+
+<h3> <li>💡 Q4: Which channel titles had the most views ? </li></h3>
+  <img width="771" alt="Screen Shot 1442-12-10 at 6 58 33 PM" src="https://user-images.githubusercontent.com/59771760/126356938-b12a964c-6800-4861-9c46-a423b6e2e5bb.png">
+
+                
+Figure 10. 
   
     
  
@@ -92,7 +99,7 @@ Figure 10.
    
    <h1> :star2: Resources </h1>
   <li>https://www.kaggle.com/datasnaek/youtube</li>
-  <li></li>
+  <li>https://github.com/GalvanizeDataScience/pandas-eda-case-study</li>
 
 
 
